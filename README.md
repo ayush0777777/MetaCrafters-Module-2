@@ -1,12 +1,44 @@
-# Starter Next/Hardhat Project
+# Ayushwhatever
 
-After cloning the github, you will want to do the following to get the code running on your computer.
+This simple front-end-based solidity dapp enables token transactions by allowing you to connect to a Metamask wallet.
 
-1. Inside the project directory, in the terminal type: npm i
-2. Open two additional terminals in your VS code
-3. In the second terminal type: npx hardhat node
-4. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
-5. Back in the first terminal, type npm run dev to launch the front-end.
 
-After this, the project will be running on your localhost. 
-Typically at http://localhost:3000/
+
+# Description
+
+The following is how this contract is constructed:
+
+
+
+Next.js
+
+Solidity
+
+Hardhat
+
+This app makes it possible to deploy a solidity smart contract locally and interact with it using a front end created using next.js.
+
+
+
+Getting Going
+
+running a program
+
+You must first clone this github repository onto your computer. To get the code running on your PC after cloning the repository, perform the following.
+
+
+# Help
+
+Be sure to link your deployed hardhat node's owner account to your metamask wallet.
+
+
+
+# Authors
+
+Ayush Kumar
+
+
+
+# License
+
+For more information on how this project is licensed, read the LICENSE.md file.
